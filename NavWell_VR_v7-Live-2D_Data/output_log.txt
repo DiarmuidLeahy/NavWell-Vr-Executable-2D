@@ -1,0 +1,156 @@
+Initialize engine version: 5.3.4p1 (e89f89413a91)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+Default GameObject Tag: Player already registered
+ 
+(Filename:  Line: 88)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\Ionic.Zlib.CF.dll (this message is harmless)
+Loading C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\Ionic.Zlib.CF.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+Platform assembly: C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.596116 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 397c -> priority: 1 
+  Thread -> id: 3980 -> priority: 1 
+Platform assembly: C:\Users\Derri_000\Documents\NavWell_VR_v7-Live-2D_Data\Managed\Mono.Security.dll (this message is harmless)
+ExperimentList: 5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.669796 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 259.
+Total: 0.192136 ms (FindLiveObjects: 0.013958 ms CreateObjectMapping: 0.006568 ms MarkObjects: 0.165861 ms  DeleteObjects: 0.005337 ms)
+
+this was clicked 59c912f78f243e67cc675a72 - Derri3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.351429 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 261.
+Total: 0.277941 ms (FindLiveObjects: 0.020527 ms CreateObjectMapping: 0.014369 ms MarkObjects: 0.229907 ms  DeleteObjects: 0.012316 ms)
+
+SELECTED ENV: Derri3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.395358 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 244.
+Total: 0.278762 ms (FindLiveObjects: 0.036128 ms CreateObjectMapping: 0.016832 ms MarkObjects: 0.217180 ms  DeleteObjects: 0.007800 ms)
+
+Virtual Reality is not supported in this project. Enable Virtual Reality Supported in Player Settings.
+ 
+(Filename:  Line: 109)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.303395 ms
+Unity v5.3.4p1, Oculus Utilities v1.3.2, OVRPlugin v1.3.0, SDK v0.0.0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Creating volume controller...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 536.
+Total: 0.333775 ms (FindLiveObjects: 0.032843 ms CreateObjectMapping: 0.013548 ms MarkObjects: 0.275067 ms  DeleteObjects: 0.011084 ms)
+
+£££££££££££££££££££££££££££££££££0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+***********************
+CanvasSize: 45
+CueXLocation: 42
+CueYLocation: 42
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+here
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cue: -29.63948 -----  26.86078
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+LIGHT RANGE: 25
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Cue: 25.16793 -----  31.08979
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+LIGHT RANGE: 50
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+starting position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+X: -0.5775
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Z: -0.5225
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Canvas X: -25.9875
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Canvas Z: -23.5125
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+starting position
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+X: -0.5775
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Z: -0.5225
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Canvas X: -25.9875
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Canvas Z: -23.5125
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
